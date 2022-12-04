@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    background-color: gray;
+}
+img{
+    width: 900px;
+}
+button{
+    padding: 20px;
+    margin: 30px;
+    margin-bottom: 20%;
+    margin-top: 20%;
+    font-size: 20px;
+    border-radius: 20px;
+    position: relative;
+    left: 4%;
+}
+button:hover{
+    background-color: rgb(107, 107, 241);
+    color: black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
